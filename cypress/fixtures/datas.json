@@ -1,0 +1,13 @@
+{
+    "validUser": {
+      "name": "Vitor Meneses",
+      "email": "brasil@harakirimail.com",
+      "password": "AutomationCypress2023"
+    },
+    "usuarioInvalido": {
+      "name": "Maria",
+      "email": "maria@example.com",
+      "password": ""
+    }
+  }
+  

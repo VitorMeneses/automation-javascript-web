@@ -1,0 +1,9 @@
+node_modules
+cypress/screenshots
+allures-results/*
+.DS_Store
+node_modules
+node_modules
+output
+package-lock.json
+.vscode
